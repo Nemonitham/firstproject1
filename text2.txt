@@ -1,0 +1,2 @@
+this is empty second text file 
+text2 file in the git
